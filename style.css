@@ -1,0 +1,30 @@
+body {
+    height: 100%;
+}
+#nav{
+    height: 15%;
+    width: 100%;
+    background-color: black;  
+}
+.Home{
+   display: inline-block;
+    width: 15%;
+   height: 15%;
+   background-color:rgb(107, 106, 106);
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.basebox{ 
+  display: inline-block;
+  height: 500px;
+  padding: 1px 
+}
+.left {
+    width: 29%;
+    background-color:cadetblue;
+  }
+  .right {
+    width: 70%;
+    background-color:darksalmon;
+  }
